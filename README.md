@@ -1,4 +1,7 @@
-# test coverage for  [karma-cli (v1.0.1)](http://karma-runner.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-cli)
+# npmtest-karma-cli
+
+#### basic test coverage for  [karma-cli (v1.0.1)](http://karma-runner.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-cli)
+
 #### The Karma command line interface.
 
 [![NPM](https://nodei.co/npm/karma-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-cli)
